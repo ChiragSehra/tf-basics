@@ -1,2 +1,5 @@
 .vscode/
 venv/
+mymodel.h5
+training_1/
+training_2/
